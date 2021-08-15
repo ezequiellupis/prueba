@@ -1,1 +1,3 @@
 alert (peligro)
+
+alert(fuego)
